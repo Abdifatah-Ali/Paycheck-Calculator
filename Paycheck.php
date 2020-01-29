@@ -11,6 +11,7 @@
           color: #333;
           text-align: center;
          }
+	
      #header {
           font-family: verdana;
           color: #008000;
